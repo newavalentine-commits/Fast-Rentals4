@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast rentals</title>
+</head>
+<body style="background-color: rgb(244, 246, 247);">
+    <img src="LOGO.1.jpg" alt="" width="400" height="300">
+    <h1 style="color: black;">Fast Rentals</h1>
+    <p style="color: black;">>We are a Company that Specialises on renting out bakkies and Trucks. </p>
+    <p> >We rent out our Vehicles all around South Africa at affordable rates! </p>
+    <img src="MID SEC.1.jpg" alt="" width="500" height="400">
+    <h2>Our Services</h2>
+    <p> >We do Monthly moves from :</p>
+    <p> [Cape Town - JHb] </p>
+    <p> [JHb - Durban]</p>
+    <p> [Durban - Cape Town] </p>
+    <p> >We also offer local moves within CPT,JHB & Durban</p>
+
+    <h3>Conclusion</h3>
+    <p> >We are trusted by many,We always provide quality services for all our clients.</p>
+    <p> >When you use our services,you are not just paying for our services but you <br>
+    investing in your peace of mind as well.</p>
+    <p>We are aware of how stressfull it is to move from point A<br>
+    to Point B,That is why we have a team of professionals to assist you on stand by.</p>
+
+    <h4>About us</h4>
+    <p> >We are a Private Company based in Cape Town.</p>
+    <p> >We started our operation in 2023.</p>
+    <p> >We work from Monday to Saturday.</p>
+
+    <h5>Do you want a qoute?</h5>
+    <p> Send us a message on Whatsapp on:</p>
+    <p> 067 168 2811</p>
+    <p>Or simple scan The QR code below.</p>
+    <img src="QR.1.jpg" alt="" width="300" height="200">
+</body>
+</html>
